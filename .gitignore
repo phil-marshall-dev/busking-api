@@ -1,0 +1,152 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.egg
+*.egg-info/
+dist/
+build/
+*.egg-info/
+.eggs/
+*.whl
+
+# Django stuff:
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+db.sqlite3
+*.pyo
+*.pyd
+*.db
+
+# If you're using SQLite3
+*.sqlite3
+
+# Django migrations
+*/migrations/*
+
+# Logs
+*.log
+*.log.*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Virtual environment
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+venv/*
+
+# Editor / IDE specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+.cache
+.nox/
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+.pytest_cache/v/
+.tox/
+.tox/py3/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Django static files
+static/
+staticfiles/
+media/
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Sphinx documentation
+docs/_build/
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+nosetests.xml
+coverage.*.html
+.cache
+
+# Environments
+.env
+.env.*
+.envrc
+.pipenv
+.pipfile
+.pipfile.lock
+
+# mkdocs documentation
+site
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Environments
+.env
+.env.*
+
+# VS Code
+.vscode/
+
+# pyenv
+.python-version
